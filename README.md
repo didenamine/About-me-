@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @didenamine
 - 👀 I’m interested in development and data science 
 - 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via : 
 - Email -> D19amine@gmail.com
 - LinkedIn -> https://www.linkedin.com/in/amine-diden-521792220/
